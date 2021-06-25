@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WordMatters</string>
+    <string name="text_score">Score: $1s</string>
+</resources>
